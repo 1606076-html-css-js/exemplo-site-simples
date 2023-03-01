@@ -1,0 +1,39 @@
+
+
+
+.containerForm {
+    /* border: solid green 5px; */
+}
+
+form {
+    /* border: solid red 4px; */
+    width: 80%;
+    margin: auto;
+}
+
+form label {
+    /* border: solid pink 5px; */
+    display: inline-block;
+    width: 100%;
+}
+
+form input {
+    /* border: solid pink 5px; */
+    width: 80%;
+    padding: 0px;
+    margin: 0px;
+}
+
+form textarea {
+    /* border: solid pink 5px; */
+    width: 80%;
+    padding: 0px;
+    margin: 0px;
+}
+
+form button {
+    /* border: solid pink 5px; */
+    /* width: 80%; */
+    padding: 0px;
+    margin-right: 30%;
+}
